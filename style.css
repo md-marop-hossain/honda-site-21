@@ -1,0 +1,93 @@
+.honda-top-banner{
+    background-color: #264653;
+}
+.top-banner-text{
+    color: #E0E0E0;
+}
+.button-color{
+    background-color: #E76F51;
+    color: white;
+}
+.bike-title{
+   font-weight: 600;
+   font-size: 48px;
+}
+.bike-sub-title{
+   color: #E76F51;
+}
+.star-font-color{
+    color: #E77C40;
+}
+.name{
+    text-decoration: none;
+    color: #23A6F0;
+    font-size: 14px;
+}
+span{
+    color: #E76F51;
+}
+.frequently-image{
+    width: 431.2px;
+    height: 417px;
+}
+.accordion-body-color{
+    color: #7E848C;
+}
+.honda-footer{
+    background-color: #0B0D17;
+}
+.footer-apple{
+   width: 135px;
+   height: 40px;
+}
+.footer-andr{
+    width: 135px;
+    height: 40px;
+}
+.footer-section{
+    text-decoration: none;
+    color: white;
+    font-size: 18px;
+}
+.footer-section-caption{
+    color: #D9DBE1;
+}
+.get-app{
+    color: #D9DBE1;
+
+}
+
+
+/* extra  */
+
+.date {
+    font-size: 11px
+}
+
+.comment-text {
+    font-size: 12px
+}
+
+.fs-12 {
+    font-size: 12px
+}
+
+.shadow-none {
+    box-shadow: none
+}
+
+.name {
+    color: #007bff
+}
+
+.cursor:hover {
+    color: blue
+}
+
+.cursor {
+    cursor: pointer
+}
+
+.textarea {
+    resize: none
+}
